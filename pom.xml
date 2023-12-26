@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>jenkins-task</artifactId>
+    <artifactId>ROOT</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 
